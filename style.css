@@ -1,0 +1,124 @@
+body{
+    background-image: url("https://media-exp1.licdn.com/dms/image/C4D1BAQF_eieut2cLog/company-background_10000/0/1580192191526?e=2159024400&v=beta&t=sKD25CvLWUKXRCSAKFqabRbdRxsgH08le9yMUl7DMyQ");
+
+    background-repeat: no-repeat;
+
+}
+
+.left{
+
+
+
+
+position:absolute;
+top: 29px;
+left: 113px;
+}
+
+.ok{
+
+    width: 280px;
+    height: 160px;
+
+
+
+
+}
+
+.btn{
+
+
+background-color: rgb(119, 100, 74);
+border: none;
+position: absolute;
+top: 25px;
+left: 10px;
+padding: 7px;
+padding-left: 7px;
+border-radius: 10px;
+}
+
+.btn:hover{
+    background-color: rgb(83, 45, 31);
+    
+}
+
+a{
+   color: turquoise;
+    text-decoration: none;
+   
+}
+
+.rtimg1{
+
+    width: 165px;
+    height: 145px;
+    position: absolute;
+    top: 227px;
+    right: 38px;
+
+}
+
+
+.ltimg1{
+
+    width: 174px;
+    height: 145px;
+    position: absolute;
+    top: 228px;
+    left: 27px;
+
+
+}
+.name{
+
+    position: absolute;
+    top: 376px;
+    left: 111px;
+    color: rgb(224, 150, 107);
+    font-size: 30px;
+    font-family: 'Scheherazade New', serif;
+}
+
+
+
+
+.num{
+
+
+    position: absolute;
+    top: 422px;
+    left: 69px;
+    color: rgb(96, 202, 141);
+    font-size: 30px;
+    font-family: 'Padauk', sans-serif;
+
+}
+
+
+.num1{
+
+    position: absolute;
+    top: 461px;
+    left: 109px;
+    color: rgb(102, 192, 185);
+    font-size: 30px;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+
+.adds{
+
+    position: absolute;
+    top: 501px;
+    left: 0px;
+    color: seashell;
+    font-size: 22px;
+
+}
+
+
+
+
+
+
